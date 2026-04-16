@@ -1,5 +1,5 @@
-function hello(){
-    console.log("Bonjour projet GitHub");
+function message(){
+    console.log("Modification dans branche1");
 }
 
-hello();
+message();
